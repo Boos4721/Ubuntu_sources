@@ -1,0 +1,12 @@
+deb http://mirrors.cloud.tencent.com/ubuntu/ eoan main restricted universe multiverse
+deb http://mirrors.cloud.tencent.com/ubuntu/ eoan-security main restricted universe multiverse
+deb http://mirrors.cloud.tencent.com/ubuntu/ eoan-updates main restricted universe multiverse
+#deb http://mirrors.cloud.tencent.com/ubuntu/ eoan-proposed main restricted universe multiverse
+#deb http://mirrors.cloud.tencent.com/ubuntu/ eoan-backports main restricted universe multiverse
+deb-src http://mirrors.cloud.tencent.com/ubuntu/ eoan main restricted universe multiverse
+deb-src http://mirrors.cloud.tencent.com/ubuntu/ eoan-security main restricted universe multiverse
+deb-src http://mirrors.cloud.tencent.com/ubuntu/ eoan-updates main restricted universe multiverse
+#deb-src http://mirrors.cloud.tencent.com/ubuntu/ eoan-proposed main restricted universe multiverse
+#deb-src http://mirrors.cloud.tencent.com/ubuntu/ eoan-backports main restricted universe multiverse
+
+#By Boos
